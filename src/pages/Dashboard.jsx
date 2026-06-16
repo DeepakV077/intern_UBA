@@ -7,7 +7,7 @@ export default function Dashboard() {
     <div className="min-h-screen bg-[#EDF1F5] p-6">
 
       {/* Header */}
-      <div className="mb-8">
+      {/* <div className="mb-8">
         <h1 className="text-4xl font-bold text-[#0145F2]">
           Smart Rainwater Harvesting System
         </h1>
@@ -15,7 +15,7 @@ export default function Dashboard() {
         <p className="text-gray-600 mt-2">
           Poonthandalam Village • Groundwater Recharge • Water Monitoring
         </p>
-      </div>
+      </div> */}
 
       {/* Village Overview */}
       <section className="mb-8">
